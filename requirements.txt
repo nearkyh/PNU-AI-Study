@@ -1,0 +1,9 @@
+jupyter
+pandas
+scikit-learn
+scipy
+matplotlib
+plotly
+cufflinks
+graphviz
+watermark
