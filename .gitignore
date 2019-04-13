@@ -1,6 +1,12 @@
 
+\.idea/
+
 /env
 
 1\) DecisionTree/\.ipynb_checkpoints/
 
 2\) Perceptron/\.ipynb_checkpoints/
+
+3\) FFNet/\.ipynb_checkpoints/
+
+3\) FFNet/MNIST_data/
